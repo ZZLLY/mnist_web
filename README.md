@@ -4,5 +4,7 @@
 - 数据集为mnist
 - 整合web框架Flask
 
-参照https://github.com/byerHu/mnist_web
-我加入CNN_LSTM模型，并对原先的js做了一点修改，web端更加整洁
+参照https://github.com/byerHu/mnist_web，我加入CNN_LSTM模型，并对原先的js做了一点修改，web端更加整洁
+  
+  # 使用
+  运行main.py即可

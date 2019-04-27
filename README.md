@@ -6,3 +6,6 @@
 
   # 使用
   运行main.py即可
+
+# 参考
+参考https://github.com/byerHu/mnist_web
